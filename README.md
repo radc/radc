@@ -1,7 +1,15 @@
-## Ruhan Conceição
+# 👋 Hello! I'm Ruhan Conceição
 
+- 🎓 **Computer Engineer** - Graduated from Federal University of Pelotas
+- 📚 **PhD Candidate** - Always eager to expand the boundaries of knowledge
+- 👨‍🏫 **Professor** - Teaching at Federal Institute Sul-rio-grandense (IFSul)
+- 💻 **Full-stack Developer** - Experienced in both frontend and backend
+- 🧪 **Researcher** - Specializing in neural video codecs
+- 🤖 **Deep Learning Enthusiast** - Passionate about AI and its applications
+- 📖 **Author** - Written some books
+- 📄 **Academic Contributor** - Published multiple academic papers
 
-### Languages and Tools
+### 🛠️ Programming Languages & Technologies
 <img align="left" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />          
 <img align="left" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -13,7 +21,7 @@
 <img align="left" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
 <br/><br/>
 
-### Published Books
+### 📚 Published Books
 ##### English
 <div style="display: flex; gap: 10px;">
 
@@ -53,6 +61,10 @@
 
 <a href="https://a.co/d/2LCLzd4" target="_blank" style="text-decoration: none;">
     <img src="https://m.media-amazon.com/images/I/61v-FzcAfOL._SY466_.jpg" alt="Dominando Rust" width="100px" style="border-radius: 5px; transition: transform 0.3s;">
+</a>
+
+<a href="https://a.co/d/epNI8jP" target="_blank" style="text-decoration: none;">
+    <img src="https://m.media-amazon.com/images/I/61Pmw9DxekL._SY466_.jpg" alt="Pratique C++" width="100px" style="border-radius: 5px; transition: transform 0.3s;">
 </a>
 
 </div>
